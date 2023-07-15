@@ -101,6 +101,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Pi Scans", "https://piscans.in", "id", overrideVersionCode = 1),
         SingleLang("PMScans", "https://rackusreads.com", "en", overrideVersionCode = 3),
         SingleLang("Raiki Scan", "https://raikiscan.com", "es"),
+        SingleLang("Realm Scans", "https://realmscans.com", "en", overrideVersionCode = 5),
         SingleLang("Raven Scans", "https://ravenscans.com", "en", overrideVersionCode = 1),
         SingleLang("Rawkuma", "https://rawkuma.com/", "ja"),
         SingleLang("ReadGojo", "https://readgojo.com", "en"),
